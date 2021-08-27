@@ -32,7 +32,7 @@ Mobile view:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/socialproofsection-byq8n2U9q
+- Solution URL: https://www.frontendmentor.io/solutions/socialproofsection-A5ys1SUEY
 - Live Site URL: https://co555.github.io/social-proof-section/
 
 ## My process
