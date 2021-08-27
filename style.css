@@ -37,19 +37,6 @@ body {
   margin-bottom: 2.5em;
 }
 
-/* Pseudo-element */
-/* .rating::before {  
-/* content: "\f005";
-  display: block;
-  color: rgb(231, 141, 5);
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-} */
-
 .ratings {
   width: 100%;
 }
@@ -103,7 +90,6 @@ body {
   letter-spacing: 0.1em;
 }
 
-/* footer */
 footer {
   font-size: 11px;
   margin-bottom: 1.5em;
@@ -118,11 +104,10 @@ footer a:hover {
   border-bottom: 1px solid hsl(327, 45%, 44%);
 }
 
-/* Media Queries */
+
 @media (min-width: 1440px) {
   body {
     height: 100vh;
-    /* width: 100vw; */
     background: url("images/bg-pattern-top-desktop.svg") no-repeat left 260px
         top,
       url("images/bg-pattern-bottom-desktop.svg") no-repeat left 370px bottom
