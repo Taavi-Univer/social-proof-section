@@ -45,7 +45,7 @@ body {
   background-color: hsl(300, 24%, 96%);
   font-weight: 700;
   border-radius: 7px;
-  padding: 1em;
+  padding: 0.5em;
   margin-bottom: 1em;
 }
 
@@ -68,7 +68,7 @@ body {
   font-size: smaller;
   line-height: 1.9em;
   color: hsl(0, 0%, 100%);
-  padding: 4em 3em;
+  padding: 2em 1.5em;
   border-radius: 7px;
   margin-bottom: 1.5em;
 }
@@ -103,10 +103,8 @@ footer a:hover {
   border-bottom: 1px solid hsl(327, 45%, 44%);
 }
 
-
-@media (min-width: 1440px) {
+@media (min-width: 60em) {
   body {
-    height: 100vh;
     background: url("images/bg-pattern-top-desktop.svg") no-repeat left 260px
         top,
       url("images/bg-pattern-bottom-desktop.svg") no-repeat left 370px bottom
@@ -115,7 +113,7 @@ footer a:hover {
   }
 
   .main {
-    width: 1440px;
+    min-width: 60em;
     margin-top: 19em 0;
   }
 
