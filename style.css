@@ -85,6 +85,12 @@ body {
   margin-right: 2em;
 }
 
+.comment-author .name {
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+  font-size: 1rem;
+}
+
 .comment-author p {
   color: hsl(333, 80%, 67%);
   letter-spacing: 0.1em;
