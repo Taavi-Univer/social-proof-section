@@ -90,7 +90,7 @@ body {
   letter-spacing: 0.1em;
 }
 
-.comment-author .name {
+.comment-author p .name {
   color: hsl(0, 0%, 100%);
   font-weight: bold;
   font-size: 1rem;
