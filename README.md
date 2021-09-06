@@ -39,8 +39,11 @@ Mobile view:
 
 ### Built with
 
-- Mobile-first workflow
+- HTML5
+- CSS
 - Flexbox
+- Mobile-first workflow
+
 
 ## Author
 
