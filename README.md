@@ -12,7 +12,7 @@ Desktop view:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/socialproofsection-A5ys1SUEY
+- Solution URL: https://www.frontendmentor.io/solutions/socialproofsection-yCR2Qqdvs
 - Live Site URL: https://taavi-univer.github.io/social-proof-section/
 
 ### Built with
